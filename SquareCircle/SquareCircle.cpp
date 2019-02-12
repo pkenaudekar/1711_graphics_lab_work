@@ -48,8 +48,7 @@ void drawScene(void)
 	glClear(GL_COLOR_BUFFER_BIT);
 	glColor3f(0.0, 0.0, 0.0);
 	drawSquare();
-	drawCircle();
-	
+	drawCircle();	
 	glFlush();
 }
 
