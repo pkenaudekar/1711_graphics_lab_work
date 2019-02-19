@@ -5,7 +5,6 @@
 #include<gl/GLU.h>    
 #include<gl/glut.h> 
 
-
 static int angleArm = 0, angleForearm = 0, angleHand = 0;
 static int xP = 11, yP = 56;
 
